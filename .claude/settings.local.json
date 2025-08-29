@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(echo $DISPLAY)",
+      "Bash(py --version)",
+      "Bash(source:*)",
+      "Bash(echo \"Virtual env: $CONDA_DEFAULT_ENV\")",
+      "Bash(echo:*)",
+      "Bash(conda info:*)",
+      "Bash(ip addr:*)",
+      "Bash(sysctl:*)",
+      "Bash(/opt/pylon/bin/PylonGigEConfigurator:*)",
+      "Bash(conda list:*)",
+      "Bash(conda search:*)",
+      "Bash(grep:*)",
+      "Bash(pip install:*)",
+      "Bash(pip uninstall:*)",
+      "Bash(export:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

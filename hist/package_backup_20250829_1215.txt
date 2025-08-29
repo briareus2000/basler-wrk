@@ -1,0 +1,27 @@
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_1744743074898/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1755223870329/work
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_kiwisolver_1754889625/work
+matplotlib==3.10.5
+munkres==1.1.4
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1747544638300/work/dist/numpy-2.2.6-cp310-cp310-linux_aarch64.whl#sha256=332ddad3fab679756de94800a0541e7492983cbf1b32c046fba455e17aba25be
+opencv-python-headless==4.12.0.88
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1745345660/work
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1751482268009/work
+ply @ file:///home/conda/feedstock_root/build_artifacts/ply_1733239724146/work
+PyOpenGL @ file:///home/conda/feedstock_root/build_artifacts/pyopengl_1755781638368/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1753873557/work
+pypylon==4.2.0
+PyQt5==5.15.11
+PyQt5_sip==12.17.0
+pyqtgraph==0.13.7
+pyrealsense2==2.56.5.9235
+PySide6==6.9.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+shiboken6==6.9.1
+sip @ file:///home/conda/feedstock_root/build_artifacts/sip_1755905278423/work
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1734091811753/work
+tomli @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_tomli_1753796677/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1754732141890/work
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1736692504463/work

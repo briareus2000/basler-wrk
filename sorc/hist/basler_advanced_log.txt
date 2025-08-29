@@ -1,0 +1,250 @@
+2025-08-29 23:04:16,486 - BaslerAdvancedColorAnalysis - INFO - lib_basler_cmd_delta_1v.py loaded successfully (version 1.0.0)
+2025-08-29 23:04:18,013 - BaslerAdvancedColorAnalysis - INFO - AdvancedColorAnalyzer created
+2025-08-29 23:04:18,014 - BaslerAdvancedColorAnalysis - INFO - AdvancedDataManager created
+2025-08-29 23:04:18,014 - BaslerAdvancedColorAnalysis - INFO - No history file found
+2025-08-29 23:04:18,617 - BaslerAdvancedColorAnalysis - INFO - BaslerCameraThread created
+2025-08-29 23:04:18,806 - BaslerAdvancedColorAnalysis - INFO - BaslerCameraThread started
+2025-08-29 23:04:19,470 - BaslerAdvancedColorAnalysis - INFO - Device found: acA4024-8gc
+2025-08-29 23:04:19,471 - BaslerAdvancedColorAnalysis - INFO - Serial number: 23940051
+2025-08-29 23:04:20,191 - BaslerAdvancedColorAnalysis - INFO - Camera max resolution: 4024 x 3036
+2025-08-29 23:04:20,226 - BaslerAdvancedColorAnalysis - WARNING - Frame rate setting failed
+2025-08-29 23:04:20,240 - BaslerAdvancedColorAnalysis - INFO - Pixel format set to BayerRG8
+2025-08-29 23:04:20,240 - BaslerAdvancedColorAnalysis - INFO - Camera configured: 1312x992
+2025-08-29 23:04:20,240 - BaslerAdvancedColorAnalysis - INFO - Camera initialization complete
+2025-08-29 23:04:20,263 - BaslerAdvancedColorAnalysis - INFO - Frame grabbing started
+2025-08-29 23:04:23,856 - BaslerAdvancedColorAnalysis - INFO - History saved: 10 points
+2025-08-29 23:04:25,201 - BaslerAdvancedColorAnalysis - INFO - History saved: 20 points
+2025-08-29 23:04:26,411 - BaslerAdvancedColorAnalysis - INFO - History saved: 30 points
+2025-08-29 23:04:27,519 - BaslerAdvancedColorAnalysis - INFO - History saved: 40 points
+2025-08-29 23:04:28,926 - BaslerAdvancedColorAnalysis - INFO - History saved: 50 points
+2025-08-29 23:04:30,016 - BaslerAdvancedColorAnalysis - INFO - History saved: 60 points
+2025-08-29 23:04:31,323 - BaslerAdvancedColorAnalysis - INFO - History saved: 70 points
+2025-08-29 23:04:32,665 - BaslerAdvancedColorAnalysis - INFO - History saved: 80 points
+2025-08-29 23:04:33,868 - BaslerAdvancedColorAnalysis - INFO - History saved: 90 points
+2025-08-29 23:04:35,023 - BaslerAdvancedColorAnalysis - INFO - History saved: 100 points
+2025-08-29 23:04:36,273 - BaslerAdvancedColorAnalysis - INFO - History saved: 110 points
+2025-08-29 23:04:37,571 - BaslerAdvancedColorAnalysis - INFO - History saved: 120 points
+2025-08-29 23:04:38,834 - BaslerAdvancedColorAnalysis - INFO - History saved: 130 points
+2025-08-29 23:04:40,078 - BaslerAdvancedColorAnalysis - INFO - History saved: 140 points
+2025-08-29 23:04:41,394 - BaslerAdvancedColorAnalysis - INFO - History saved: 150 points
+2025-08-29 23:04:42,565 - BaslerAdvancedColorAnalysis - INFO - History saved: 160 points
+2025-08-29 23:04:43,812 - BaslerAdvancedColorAnalysis - INFO - History saved: 170 points
+2025-08-29 23:04:45,096 - BaslerAdvancedColorAnalysis - INFO - History saved: 180 points
+2025-08-29 23:04:46,266 - BaslerAdvancedColorAnalysis - INFO - History saved: 190 points
+2025-08-29 23:04:47,560 - BaslerAdvancedColorAnalysis - INFO - History saved: 200 points
+2025-08-29 23:04:48,919 - BaslerAdvancedColorAnalysis - INFO - History saved: 210 points
+2025-08-29 23:04:50,078 - BaslerAdvancedColorAnalysis - INFO - History saved: 220 points
+2025-08-29 23:04:51,454 - BaslerAdvancedColorAnalysis - INFO - History saved: 230 points
+2025-08-29 23:04:52,579 - BaslerAdvancedColorAnalysis - INFO - History saved: 240 points
+2025-08-29 23:04:53,782 - BaslerAdvancedColorAnalysis - INFO - History saved: 250 points
+2025-08-29 23:04:55,084 - BaslerAdvancedColorAnalysis - INFO - History saved: 260 points
+2025-08-29 23:04:56,297 - BaslerAdvancedColorAnalysis - INFO - History saved: 270 points
+2025-08-29 23:04:57,582 - BaslerAdvancedColorAnalysis - INFO - History saved: 280 points
+2025-08-29 23:04:58,870 - BaslerAdvancedColorAnalysis - INFO - History saved: 290 points
+2025-08-29 23:05:00,064 - BaslerAdvancedColorAnalysis - INFO - History saved: 300 points
+2025-08-29 23:05:01,358 - BaslerAdvancedColorAnalysis - INFO - History saved: 310 points
+2025-08-29 23:05:02,569 - BaslerAdvancedColorAnalysis - INFO - History saved: 320 points
+2025-08-29 23:05:03,843 - BaslerAdvancedColorAnalysis - INFO - History saved: 330 points
+2025-08-29 23:05:05,110 - BaslerAdvancedColorAnalysis - INFO - History saved: 340 points
+2025-08-29 23:05:06,288 - BaslerAdvancedColorAnalysis - INFO - History saved: 350 points
+2025-08-29 23:05:07,680 - BaslerAdvancedColorAnalysis - INFO - History saved: 360 points
+2025-08-29 23:05:08,914 - BaslerAdvancedColorAnalysis - INFO - History saved: 370 points
+2025-08-29 23:05:10,108 - BaslerAdvancedColorAnalysis - INFO - History saved: 380 points
+2025-08-29 23:05:11,327 - BaslerAdvancedColorAnalysis - INFO - History saved: 390 points
+2025-08-29 23:05:12,588 - BaslerAdvancedColorAnalysis - INFO - History saved: 400 points
+2025-08-29 23:05:13,979 - BaslerAdvancedColorAnalysis - INFO - History saved: 410 points
+2025-08-29 23:05:15,227 - BaslerAdvancedColorAnalysis - INFO - History saved: 420 points
+2025-08-29 23:05:16,376 - BaslerAdvancedColorAnalysis - INFO - History saved: 430 points
+2025-08-29 23:05:17,621 - BaslerAdvancedColorAnalysis - INFO - History saved: 440 points
+2025-08-29 23:05:18,933 - BaslerAdvancedColorAnalysis - INFO - History saved: 450 points
+2025-08-29 23:05:20,190 - BaslerAdvancedColorAnalysis - INFO - History saved: 460 points
+2025-08-29 23:05:21,429 - BaslerAdvancedColorAnalysis - INFO - History saved: 470 points
+2025-08-29 23:05:22,678 - BaslerAdvancedColorAnalysis - INFO - History saved: 480 points
+2025-08-29 23:05:23,881 - BaslerAdvancedColorAnalysis - INFO - History saved: 490 points
+2025-08-29 23:05:25,101 - BaslerAdvancedColorAnalysis - INFO - History saved: 500 points
+2025-08-29 23:05:26,334 - BaslerAdvancedColorAnalysis - INFO - History saved: 510 points
+2025-08-29 23:05:27,649 - BaslerAdvancedColorAnalysis - INFO - History saved: 520 points
+2025-08-29 23:05:28,936 - BaslerAdvancedColorAnalysis - INFO - History saved: 530 points
+2025-08-29 23:05:30,177 - BaslerAdvancedColorAnalysis - INFO - History saved: 540 points
+2025-08-29 23:05:31,370 - BaslerAdvancedColorAnalysis - INFO - History saved: 550 points
+2025-08-29 23:05:32,750 - BaslerAdvancedColorAnalysis - INFO - History saved: 560 points
+2025-08-29 23:05:33,896 - BaslerAdvancedColorAnalysis - INFO - History saved: 570 points
+2025-08-29 23:05:35,195 - BaslerAdvancedColorAnalysis - INFO - History saved: 580 points
+2025-08-29 23:05:36,404 - BaslerAdvancedColorAnalysis - INFO - History saved: 590 points
+2025-08-29 23:05:37,665 - BaslerAdvancedColorAnalysis - INFO - History saved: 600 points
+2025-08-29 23:05:38,874 - BaslerAdvancedColorAnalysis - INFO - History saved: 610 points
+2025-08-29 23:05:40,213 - BaslerAdvancedColorAnalysis - INFO - History saved: 620 points
+2025-08-29 23:05:41,436 - BaslerAdvancedColorAnalysis - INFO - History saved: 630 points
+2025-08-29 23:05:42,645 - BaslerAdvancedColorAnalysis - INFO - History saved: 640 points
+2025-08-29 23:05:43,883 - BaslerAdvancedColorAnalysis - INFO - History saved: 650 points
+2025-08-29 23:05:45,155 - BaslerAdvancedColorAnalysis - INFO - History saved: 660 points
+2025-08-29 23:05:46,517 - BaslerAdvancedColorAnalysis - INFO - History saved: 670 points
+2025-08-29 23:05:47,722 - BaslerAdvancedColorAnalysis - INFO - History saved: 680 points
+2025-08-29 23:05:48,897 - BaslerAdvancedColorAnalysis - INFO - History saved: 690 points
+2025-08-29 23:05:50,155 - BaslerAdvancedColorAnalysis - INFO - History saved: 700 points
+2025-08-29 23:05:51,492 - BaslerAdvancedColorAnalysis - INFO - History saved: 710 points
+2025-08-29 23:05:52,697 - BaslerAdvancedColorAnalysis - INFO - History saved: 720 points
+2025-08-29 23:05:53,952 - BaslerAdvancedColorAnalysis - INFO - History saved: 730 points
+2025-08-29 23:05:55,145 - BaslerAdvancedColorAnalysis - INFO - History saved: 740 points
+2025-08-29 23:05:56,451 - BaslerAdvancedColorAnalysis - INFO - History saved: 750 points
+2025-08-29 23:05:57,734 - BaslerAdvancedColorAnalysis - INFO - History saved: 760 points
+2025-08-29 23:05:59,001 - BaslerAdvancedColorAnalysis - INFO - History saved: 770 points
+2025-08-29 23:06:00,152 - BaslerAdvancedColorAnalysis - INFO - History saved: 780 points
+2025-08-29 23:06:01,414 - BaslerAdvancedColorAnalysis - INFO - History saved: 790 points
+2025-08-29 23:06:02,840 - BaslerAdvancedColorAnalysis - INFO - History saved: 800 points
+2025-08-29 23:06:03,962 - BaslerAdvancedColorAnalysis - INFO - History saved: 810 points
+2025-08-29 23:06:05,165 - BaslerAdvancedColorAnalysis - INFO - History saved: 820 points
+2025-08-29 23:06:06,410 - BaslerAdvancedColorAnalysis - INFO - History saved: 830 points
+2025-08-29 23:06:07,672 - BaslerAdvancedColorAnalysis - INFO - History saved: 840 points
+2025-08-29 23:06:08,951 - BaslerAdvancedColorAnalysis - INFO - History saved: 850 points
+2025-08-29 23:06:10,215 - BaslerAdvancedColorAnalysis - INFO - History saved: 860 points
+2025-08-29 23:06:11,353 - BaslerAdvancedColorAnalysis - INFO - History saved: 870 points
+2025-08-29 23:06:12,842 - BaslerAdvancedColorAnalysis - INFO - History saved: 880 points
+2025-08-29 23:06:14,129 - BaslerAdvancedColorAnalysis - INFO - History saved: 890 points
+2025-08-29 23:06:15,239 - BaslerAdvancedColorAnalysis - INFO - History saved: 900 points
+2025-08-29 23:06:16,540 - BaslerAdvancedColorAnalysis - INFO - History saved: 910 points
+2025-08-29 23:06:16,851 - BaslerAdvancedColorAnalysis - INFO - History cleared
+2025-08-29 23:06:17,983 - BaslerAdvancedColorAnalysis - INFO - History saved: 10 points
+2025-08-29 23:06:19,202 - BaslerAdvancedColorAnalysis - INFO - History saved: 20 points
+2025-08-29 23:06:20,433 - BaslerAdvancedColorAnalysis - INFO - History saved: 30 points
+2025-08-29 23:06:21,175 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 90 ms
+2025-08-29 23:06:21,677 - BaslerAdvancedColorAnalysis - INFO - History saved: 40 points
+2025-08-29 23:06:21,854 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 80 ms
+2025-08-29 23:06:22,121 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 70 ms
+2025-08-29 23:06:22,646 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 43 ms
+2025-08-29 23:06:23,040 - BaslerAdvancedColorAnalysis - INFO - History saved: 50 points
+2025-08-29 23:06:24,164 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 54 ms
+2025-08-29 23:06:24,175 - BaslerAdvancedColorAnalysis - INFO - History saved: 60 points
+2025-08-29 23:06:24,476 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 169 ms
+2025-08-29 23:06:24,602 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 219 ms
+2025-08-29 23:06:24,864 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 224 ms
+2025-08-29 23:06:25,091 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 268 ms
+2025-08-29 23:06:25,177 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 296 ms
+2025-08-29 23:06:25,347 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 318 ms
+2025-08-29 23:06:25,539 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 329 ms
+2025-08-29 23:06:25,632 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 367 ms
+2025-08-29 23:06:25,812 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 400 ms
+2025-08-29 23:06:25,870 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 417 ms
+2025-08-29 23:06:26,014 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 422 ms
+2025-08-29 23:06:26,158 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 488 ms
+2025-08-29 23:06:26,306 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 494 ms
+2025-08-29 23:06:26,416 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 516 ms
+2025-08-29 23:06:26,587 - BaslerAdvancedColorAnalysis - INFO - Sampling interval set to 521 ms
+2025-08-29 23:06:26,615 - BaslerAdvancedColorAnalysis - INFO - History saved: 70 points
+2025-08-29 23:06:27,988 - BaslerAdvancedColorAnalysis - INFO - Calibration complete: L=9.0, a=-1.2, b=6.9
+2025-08-29 23:06:32,036 - BaslerAdvancedColorAnalysis - INFO - History saved: 80 points
+2025-08-29 23:06:37,298 - BaslerAdvancedColorAnalysis - INFO - History saved: 90 points
+2025-08-29 23:06:42,407 - BaslerAdvancedColorAnalysis - INFO - History saved: 100 points
+2025-08-29 23:06:47,647 - BaslerAdvancedColorAnalysis - INFO - History saved: 110 points
+2025-08-29 23:06:52,915 - BaslerAdvancedColorAnalysis - INFO - History saved: 120 points
+2025-08-29 23:06:58,186 - BaslerAdvancedColorAnalysis - INFO - History saved: 130 points
+2025-08-29 23:07:03,457 - BaslerAdvancedColorAnalysis - INFO - History saved: 140 points
+2025-08-29 23:07:08,711 - BaslerAdvancedColorAnalysis - INFO - History saved: 150 points
+2025-08-29 23:07:13,980 - BaslerAdvancedColorAnalysis - INFO - History saved: 160 points
+2025-08-29 23:07:19,241 - BaslerAdvancedColorAnalysis - INFO - History saved: 170 points
+2025-08-29 23:07:24,516 - BaslerAdvancedColorAnalysis - INFO - History saved: 180 points
+2025-08-29 23:07:29,870 - BaslerAdvancedColorAnalysis - INFO - History saved: 190 points
+2025-08-29 23:07:35,041 - BaslerAdvancedColorAnalysis - INFO - History saved: 200 points
+2025-08-29 23:07:40,237 - BaslerAdvancedColorAnalysis - INFO - History saved: 210 points
+2025-08-29 23:07:45,486 - BaslerAdvancedColorAnalysis - INFO - History saved: 220 points
+2025-08-29 23:07:50,758 - BaslerAdvancedColorAnalysis - INFO - History saved: 230 points
+2025-08-29 23:07:56,031 - BaslerAdvancedColorAnalysis - INFO - History saved: 240 points
+2025-08-29 23:08:01,272 - BaslerAdvancedColorAnalysis - INFO - History saved: 250 points
+2025-08-29 23:08:06,540 - BaslerAdvancedColorAnalysis - INFO - History saved: 260 points
+2025-08-29 23:08:11,803 - BaslerAdvancedColorAnalysis - INFO - History saved: 270 points
+2025-08-29 23:08:17,057 - BaslerAdvancedColorAnalysis - INFO - History saved: 280 points
+2025-08-29 23:08:22,299 - BaslerAdvancedColorAnalysis - INFO - History saved: 290 points
+2025-08-29 23:08:27,551 - BaslerAdvancedColorAnalysis - INFO - History saved: 300 points
+2025-08-29 23:08:32,823 - BaslerAdvancedColorAnalysis - INFO - History saved: 310 points
+2025-08-29 23:08:38,080 - BaslerAdvancedColorAnalysis - INFO - History saved: 320 points
+2025-08-29 23:08:43,338 - BaslerAdvancedColorAnalysis - INFO - History saved: 330 points
+2025-08-29 23:08:48,636 - BaslerAdvancedColorAnalysis - INFO - History saved: 340 points
+2025-08-29 23:08:53,914 - BaslerAdvancedColorAnalysis - INFO - History saved: 350 points
+2025-08-29 23:08:59,162 - BaslerAdvancedColorAnalysis - INFO - History saved: 360 points
+2025-08-29 23:09:04,448 - BaslerAdvancedColorAnalysis - INFO - History saved: 370 points
+2025-08-29 23:09:09,707 - BaslerAdvancedColorAnalysis - INFO - History saved: 380 points
+2025-08-29 23:09:14,998 - BaslerAdvancedColorAnalysis - INFO - History saved: 390 points
+2025-08-29 23:09:20,221 - BaslerAdvancedColorAnalysis - INFO - History saved: 400 points
+2025-08-29 23:09:25,469 - BaslerAdvancedColorAnalysis - INFO - History saved: 410 points
+2025-08-29 23:09:30,740 - BaslerAdvancedColorAnalysis - INFO - History saved: 420 points
+2025-08-29 23:09:36,013 - BaslerAdvancedColorAnalysis - INFO - History saved: 430 points
+2025-08-29 23:09:41,354 - BaslerAdvancedColorAnalysis - INFO - History saved: 440 points
+2025-08-29 23:09:46,645 - BaslerAdvancedColorAnalysis - INFO - History saved: 450 points
+2025-08-29 23:09:51,910 - BaslerAdvancedColorAnalysis - INFO - History saved: 460 points
+2025-08-29 23:09:57,183 - BaslerAdvancedColorAnalysis - INFO - History saved: 470 points
+2025-08-29 23:10:02,339 - BaslerAdvancedColorAnalysis - INFO - History saved: 480 points
+2025-08-29 23:10:07,767 - BaslerAdvancedColorAnalysis - INFO - History saved: 490 points
+2025-08-29 23:10:13,016 - BaslerAdvancedColorAnalysis - INFO - History saved: 500 points
+2025-08-29 23:10:18,220 - BaslerAdvancedColorAnalysis - INFO - History saved: 510 points
+2025-08-29 23:10:23,512 - BaslerAdvancedColorAnalysis - INFO - History saved: 520 points
+2025-08-29 23:10:28,796 - BaslerAdvancedColorAnalysis - INFO - History saved: 530 points
+2025-08-29 23:10:34,064 - BaslerAdvancedColorAnalysis - INFO - History saved: 540 points
+2025-08-29 23:10:39,341 - BaslerAdvancedColorAnalysis - INFO - History saved: 550 points
+2025-08-29 23:10:44,689 - BaslerAdvancedColorAnalysis - INFO - History saved: 560 points
+2025-08-29 23:10:49,856 - BaslerAdvancedColorAnalysis - INFO - History saved: 570 points
+2025-08-29 23:10:55,124 - BaslerAdvancedColorAnalysis - INFO - History saved: 580 points
+2025-08-29 23:11:00,394 - BaslerAdvancedColorAnalysis - INFO - History saved: 590 points
+2025-08-29 23:11:05,649 - BaslerAdvancedColorAnalysis - INFO - History saved: 600 points
+2025-08-29 23:11:10,896 - BaslerAdvancedColorAnalysis - INFO - History saved: 610 points
+2025-08-29 23:11:16,150 - BaslerAdvancedColorAnalysis - INFO - History saved: 620 points
+2025-08-29 23:11:21,420 - BaslerAdvancedColorAnalysis - INFO - History saved: 630 points
+2025-08-29 23:11:26,688 - BaslerAdvancedColorAnalysis - INFO - History saved: 640 points
+2025-08-29 23:11:31,953 - BaslerAdvancedColorAnalysis - INFO - History saved: 650 points
+2025-08-29 23:11:37,231 - BaslerAdvancedColorAnalysis - INFO - History saved: 660 points
+2025-08-29 23:11:42,502 - BaslerAdvancedColorAnalysis - INFO - History saved: 670 points
+2025-08-29 23:11:47,778 - BaslerAdvancedColorAnalysis - INFO - History saved: 680 points
+2025-08-29 23:11:53,070 - BaslerAdvancedColorAnalysis - INFO - History saved: 690 points
+2025-08-29 23:11:58,335 - BaslerAdvancedColorAnalysis - INFO - History saved: 700 points
+2025-08-29 23:12:03,595 - BaslerAdvancedColorAnalysis - INFO - History saved: 710 points
+2025-08-29 23:12:08,866 - BaslerAdvancedColorAnalysis - INFO - History saved: 720 points
+2025-08-29 23:12:14,120 - BaslerAdvancedColorAnalysis - INFO - History saved: 730 points
+2025-08-29 23:12:19,353 - BaslerAdvancedColorAnalysis - INFO - History saved: 740 points
+2025-08-29 23:12:24,614 - BaslerAdvancedColorAnalysis - INFO - History saved: 750 points
+2025-08-29 23:12:29,879 - BaslerAdvancedColorAnalysis - INFO - History saved: 760 points
+2025-08-29 23:12:35,150 - BaslerAdvancedColorAnalysis - INFO - History saved: 770 points
+2025-08-29 23:12:40,434 - BaslerAdvancedColorAnalysis - INFO - History saved: 780 points
+2025-08-29 23:12:45,716 - BaslerAdvancedColorAnalysis - INFO - History saved: 790 points
+2025-08-29 23:12:50,995 - BaslerAdvancedColorAnalysis - INFO - History saved: 800 points
+2025-08-29 23:12:56,239 - BaslerAdvancedColorAnalysis - INFO - History saved: 810 points
+2025-08-29 23:13:01,513 - BaslerAdvancedColorAnalysis - INFO - History saved: 820 points
+2025-08-29 23:13:06,795 - BaslerAdvancedColorAnalysis - INFO - History saved: 830 points
+2025-08-29 23:13:12,085 - BaslerAdvancedColorAnalysis - INFO - History saved: 840 points
+2025-08-29 23:13:17,353 - BaslerAdvancedColorAnalysis - INFO - History saved: 850 points
+2025-08-29 23:13:22,602 - BaslerAdvancedColorAnalysis - INFO - History saved: 860 points
+2025-08-29 23:13:27,889 - BaslerAdvancedColorAnalysis - INFO - History saved: 870 points
+2025-08-29 23:13:33,159 - BaslerAdvancedColorAnalysis - INFO - History saved: 880 points
+2025-08-29 23:13:38,425 - BaslerAdvancedColorAnalysis - INFO - History saved: 890 points
+2025-08-29 23:13:43,672 - BaslerAdvancedColorAnalysis - INFO - History saved: 900 points
+2025-08-29 23:13:48,953 - BaslerAdvancedColorAnalysis - INFO - History saved: 910 points
+2025-08-29 23:13:54,240 - BaslerAdvancedColorAnalysis - INFO - History saved: 920 points
+2025-08-29 23:13:59,488 - BaslerAdvancedColorAnalysis - INFO - History saved: 930 points
+2025-08-29 23:14:04,849 - BaslerAdvancedColorAnalysis - INFO - History saved: 940 points
+2025-08-29 23:14:10,052 - BaslerAdvancedColorAnalysis - INFO - History saved: 950 points
+2025-08-29 23:14:15,313 - BaslerAdvancedColorAnalysis - INFO - History saved: 960 points
+2025-08-29 23:14:20,690 - BaslerAdvancedColorAnalysis - INFO - History saved: 970 points
+2025-08-29 23:14:25,856 - BaslerAdvancedColorAnalysis - INFO - History saved: 980 points
+2025-08-29 23:14:31,111 - BaslerAdvancedColorAnalysis - INFO - History saved: 990 points
+2025-08-29 23:14:36,394 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:14:41,669 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:14:46,961 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:14:52,199 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:14:57,487 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:02,766 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:08,027 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:13,357 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:18,558 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:23,822 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:29,092 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:34,473 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:39,688 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:45,007 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:49,439 - BaslerAdvancedColorAnalysis - INFO - Calibration complete: L=29.7, a=0.7, b=18.9
+2025-08-29 23:15:50,253 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:15:55,537 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:16:00,756 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:16:06,033 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:16:11,261 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:16:14,458 - BaslerAdvancedColorAnalysis - INFO - History saved: 1000 points
+2025-08-29 23:16:14,541 - BaslerAdvancedColorAnalysis - INFO - Frame grabbing stopped
+2025-08-29 23:16:14,544 - BaslerAdvancedColorAnalysis - INFO - Camera disconnected
+2025-08-29 23:16:14,560 - BaslerAdvancedColorAnalysis - INFO - BaslerCameraThread stopped
